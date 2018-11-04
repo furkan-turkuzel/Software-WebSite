@@ -1,0 +1,40 @@
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\AnalitikBilisimSite.Model.dll.config
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\AnalitikBilisimSite.Model.dll
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\AnalitikBilisimSite.Model.pdb
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\AnalitikBilisimSite.Core.dll
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\AnalitikBilisimSite.Core.pdb
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.Model\obj\Debug\AnalitikBilisimSite.Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.Model\obj\Debug\AnalitikBilisimSite.Model.dll
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.Model\obj\Debug\AnalitikBilisimSite.Model.pdb
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\AnalitikBilisimSite.Model.dll.config
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\AnalitikBilisimSite.Model.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\AnalitikBilisimSite.Model.pdb
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\AnalitikBilisimSite.Core.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\EntityFramework.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\AnalitikBilisimSite.Core.pdb
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\AnalitikBilisimSite.Core.dll.config
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\EntityFramework.xml
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Model\obj\Debug\AnalitikBilisimSite.Model.csprojResolveAssemblyReference.cache
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Model\obj\Debug\AnalitikBilisimSite.Model.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Model\obj\Debug\AnalitikBilisimSite.Model.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Model\obj\Debug\AnalitikBilisimSite.Model.pdb
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\AnalitikBilisimSite.Model.dll.config
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\AnalitikBilisimSite.Model.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\AnalitikBilisimSite.Model.pdb
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\AnalitikBilisimSite.Core.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\EntityFramework.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\AnalitikBilisimSite.Core.pdb
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\AnalitikBilisimSite.Core.dll.config
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\EntityFramework.xml
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Model\obj\Debug\AnalitikBilisimSite.Model.csprojResolveAssemblyReference.cache
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Model\obj\Debug\AnalitikBilisimSite.Model.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Model\obj\Debug\AnalitikBilisimSite.Model.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Model\obj\Debug\AnalitikBilisimSite.Model.pdb

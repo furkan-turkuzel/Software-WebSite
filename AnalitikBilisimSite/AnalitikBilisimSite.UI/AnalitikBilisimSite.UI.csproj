@@ -1,0 +1,432 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.2.8.2\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.2.8.2\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{91ADB71F-EEB6-4FB0-B6A1-87155741DD2E}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AnalitikBilisimSite.UI</RootNamespace>
+    <AssemblyName>AnalitikBilisimSite.UI</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.8.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\fonts\fontawesome-webfont.eot" />
+    <Content Include="Assets\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Assets\fonts\fontawesome-webfont.woff" />
+    <Content Include="Assets\fonts\fontawesome-webfont.woff2" />
+    <Content Include="Assets\fonts\FontAwesome.otf" />
+    <Content Include="Assets\fonts\Linearicons-Free.eot" />
+    <Content Include="Assets\fonts\Linearicons-Free.ttf" />
+    <Content Include="Assets\fonts\Linearicons-Free.woff" />
+    <Content Include="Assets\fonts\Linearicons-Free.woff2" />
+    <Content Include="Assets\img\.DS_Store" />
+    <Content Include="Assets\img\about-bg.jpg" />
+    <Content Include="Assets\img\about-mission.jpg" />
+    <Content Include="Assets\img\about-plan.jpg" />
+    <Content Include="Assets\img\about-vision.jpg" />
+    <Content Include="Assets\img\analitik.png" />
+    <Content Include="Assets\img\background1.jpg" />
+    <Content Include="Assets\img\background2.jpg" />
+    <Content Include="Assets\img\background3.jpg" />
+    <Content Include="ConstructionPage\03-comming-soon\css\responsive.css" />
+    <Content Include="ConstructionPage\03-comming-soon\css\styles.css" />
+    <Content Include="ConstructionPage\common-css\bootstrap.css" />
+    <Content Include="ConstructionPage\common-css\ionicons.css" />
+    <Content Include="ConstructionPage\common-css\jquery.classycountdown.css" />
+    <Content Include="ConstructionPage\common-js\bootstrap.js" />
+    <Content Include="ConstructionPage\common-js\jquery-3.1.1.min.js" />
+    <Content Include="ConstructionPage\common-js\jquery.classycountdown.js" />
+    <Content Include="ConstructionPage\common-js\jquery.countdown.min.js" />
+    <Content Include="ConstructionPage\common-js\jquery.knob.js" />
+    <Content Include="ConstructionPage\common-js\jquery.throttle.js" />
+    <Content Include="ConstructionPage\common-js\scripts.js" />
+    <Content Include="ConstructionPage\common-js\tether.min.js" />
+    <Content Include="ConstructionPage\common-js\TimeCircles.js" />
+    <Content Include="ConstructionPage\fonts\ionicons.svg" />
+    <Content Include="ConstructionPage\images\countdown-3-1600x900.jpg" />
+    <Content Include="ConstructionPage\images\logo-black.png" />
+    <Content Include="ConstructionPage\images\logo-white.png" />
+    <Content Include="ConstructionPage\images\logo.png" />
+    <Content Include="ConstructionPage\UnderConstruction.aspx" />
+    <Content Include="Default.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="Pages\About.aspx" />
+    <Content Include="Pages\Contact.aspx" />
+    <Content Include="Pages\contactform\contactform.js" />
+    <Content Include="Pages\contactform\Readme.txt" />
+    <Content Include="Pages\css\scss-files.txt" />
+    <Content Include="Pages\css\style.css" />
+    <Content Include="Pages\img\about-bg.jpg" />
+    <Content Include="Pages\img\about-mission.jpg" />
+    <Content Include="Pages\img\about-plan.jpg" />
+    <Content Include="Pages\img\about-vision.jpg" />
+    <Content Include="Pages\img\apple-touch-icon.png" />
+    <Content Include="Pages\img\call-to-action-bg.jpg" />
+    <Content Include="Pages\img\clients\client-1.png" />
+    <Content Include="Pages\img\clients\client-2.png" />
+    <Content Include="Pages\img\clients\client-3.png" />
+    <Content Include="Pages\img\clients\client-4.png" />
+    <Content Include="Pages\img\clients\client-5.png" />
+    <Content Include="Pages\img\clients\client-6.png" />
+    <Content Include="Pages\img\clients\client-7.png" />
+    <Content Include="Pages\img\clients\client-8.png" />
+    <Content Include="Pages\img\facts-bg.jpg" />
+    <Content Include="Pages\img\facts-img.png" />
+    <Content Include="Pages\img\favicon.png" />
+    <Content Include="Pages\img\intro-carousel\1.jpg" />
+    <Content Include="Pages\img\intro-carousel\2.jpg" />
+    <Content Include="Pages\img\intro-carousel\3.jpg" />
+    <Content Include="Pages\img\intro-carousel\4.jpg" />
+    <Content Include="Pages\img\intro-carousel\5.jpg" />
+    <Content Include="Pages\img\portfolio\app1.jpg" />
+    <Content Include="Pages\img\portfolio\app2.jpg" />
+    <Content Include="Pages\img\portfolio\app3.jpg" />
+    <Content Include="Pages\img\portfolio\card1.jpg" />
+    <Content Include="Pages\img\portfolio\card2.jpg" />
+    <Content Include="Pages\img\portfolio\card3.jpg" />
+    <Content Include="Pages\img\portfolio\web1.jpg" />
+    <Content Include="Pages\img\portfolio\web2.jpg" />
+    <Content Include="Pages\img\portfolio\web3.jpg" />
+    <Content Include="Pages\img\preloader.gif" />
+    <Content Include="Pages\img\quote-sign-left.png" />
+    <Content Include="Pages\img\quote-sign-right.png" />
+    <Content Include="Pages\img\team-1.jpg" />
+    <Content Include="Pages\img\team-2.jpg" />
+    <Content Include="Pages\img\team-3.jpg" />
+    <Content Include="Pages\img\team-4.jpg" />
+    <Content Include="Pages\img\testimonial-1.jpg" />
+    <Content Include="Pages\img\testimonial-2.jpg" />
+    <Content Include="Pages\img\testimonial-3.jpg" />
+    <Content Include="Pages\img\testimonial-4.jpg" />
+    <Content Include="Pages\img\testimonial-5.jpg" />
+    <Content Include="Pages\img\titleIcon.ico" />
+    <Content Include="Pages\Index.aspx" />
+    <Content Include="Pages\index.html" />
+    <Content Include="Pages\js\main.js" />
+    <Content Include="Pages\lib\animate\animate.css" />
+    <Content Include="Pages\lib\animate\animate.min.css" />
+    <Content Include="Pages\lib\bootstrap\css\bootstrap.css" />
+    <Content Include="Pages\lib\bootstrap\css\bootstrap.min.css" />
+    <Content Include="Pages\lib\bootstrap\js\bootstrap.bundle.min.js" />
+    <Content Include="Pages\lib\bootstrap\js\bootstrap.min.js" />
+    <Content Include="Pages\lib\counterup\counterup.min.js" />
+    <Content Include="Pages\lib\easing\easing.js" />
+    <Content Include="Pages\lib\easing\easing.min.js" />
+    <Content Include="Pages\lib\font-awesome\css\font-awesome.css" />
+    <Content Include="Pages\lib\font-awesome\css\font-awesome.min.css" />
+    <Content Include="Pages\lib\font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="Pages\lib\ionicons\css\ionicons.css" />
+    <Content Include="Pages\lib\ionicons\css\ionicons.min.css" />
+    <Content Include="Pages\lib\ionicons\fonts\ionicons.svg" />
+    <Content Include="Pages\lib\isotope\isotope.pkgd.js" />
+    <Content Include="Pages\lib\isotope\isotope.pkgd.min.js" />
+    <Content Include="Pages\lib\jquery\jquery-migrate.min.js" />
+    <Content Include="Pages\lib\jquery\jquery.min.js" />
+    <Content Include="Pages\lib\lightbox\css\lightbox.css" />
+    <Content Include="Pages\lib\lightbox\css\lightbox.min.css" />
+    <Content Include="Pages\lib\lightbox\images\close.png" />
+    <Content Include="Pages\lib\lightbox\images\loading.gif" />
+    <Content Include="Pages\lib\lightbox\images\next.png" />
+    <Content Include="Pages\lib\lightbox\images\prev.png" />
+    <Content Include="Pages\lib\lightbox\js\lightbox.js" />
+    <Content Include="Pages\lib\lightbox\js\lightbox.min.js" />
+    <Content Include="Pages\lib\lightbox\links.php" />
+    <Content Include="Pages\lib\owlcarousel\assets\ajax-loader.gif" />
+    <Content Include="Pages\lib\owlcarousel\assets\owl.carousel.css" />
+    <Content Include="Pages\lib\owlcarousel\assets\owl.carousel.min.css" />
+    <Content Include="Pages\lib\owlcarousel\assets\owl.theme.default.css" />
+    <Content Include="Pages\lib\owlcarousel\assets\owl.theme.default.min.css" />
+    <Content Include="Pages\lib\owlcarousel\assets\owl.theme.green.css" />
+    <Content Include="Pages\lib\owlcarousel\assets\owl.theme.green.min.css" />
+    <Content Include="Pages\lib\owlcarousel\assets\owl.video.play.png" />
+    <Content Include="Pages\lib\owlcarousel\owl.carousel.js" />
+    <Content Include="Pages\lib\owlcarousel\owl.carousel.min.js" />
+    <Content Include="Pages\lib\superfish\hoverIntent.js" />
+    <Content Include="Pages\lib\superfish\superfish.js" />
+    <Content Include="Pages\lib\superfish\superfish.min.js" />
+    <Content Include="Pages\lib\touchSwipe\jquery.touchSwipe.js" />
+    <Content Include="Pages\lib\touchSwipe\jquery.touchSwipe.min.js" />
+    <Content Include="Pages\lib\waypoints\links.php" />
+    <Content Include="Pages\lib\waypoints\waypoints.min.js" />
+    <Content Include="Pages\lib\wow\wow.js" />
+    <Content Include="Pages\lib\wow\wow.min.js" />
+    <Content Include="Pages\MasterPage.Master" />
+    <Content Include="ConstructionPage\.DS_Store" />
+    <Content Include="ConstructionPage\fonts\ionicons.eot" />
+    <Content Include="ConstructionPage\fonts\ionicons.ttf" />
+    <Content Include="ConstructionPage\fonts\ionicons.woff" />
+    <None Include="packages.config" />
+    <Content Include="Pages\lib\font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="Pages\lib\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Pages\lib\font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="Pages\lib\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <Content Include="Pages\lib\font-awesome\fonts\FontAwesome.otf" />
+    <Content Include="Pages\lib\ionicons\fonts\ionicons.eot" />
+    <Content Include="Pages\lib\ionicons\fonts\ionicons.ttf" />
+    <Content Include="Pages\lib\ionicons\fonts\ionicons.woff" />
+    <Content Include="Pages\lib\owlcarousel\LICENSE" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\fonts\fontawesome-webfont.svg" />
+    <Content Include="Assets\fonts\Linearicons-Free.svg" />
+    <Content Include="Pages\News.aspx" />
+    <Content Include="Pages\NewsDetails.aspx" />
+    <Content Include="Pages\ReferanceDetails.aspx" />
+    <Content Include="Pages\Referances.aspx" />
+    <Content Include="Pages\ServiceDetails.aspx" />
+    <Content Include="Pages\Services.aspx" />
+    <Content Include="Pages\Solution.aspx" />
+    <Content Include="Pages\SolutionDetails.aspx" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConstructionPage\UnderConstruction.aspx.cs">
+      <DependentUpon>UnderConstruction.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ConstructionPage\UnderConstruction.aspx.designer.cs">
+      <DependentUpon>UnderConstruction.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Localization.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Localization.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\About.aspx.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\About.aspx.designer.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Contact.aspx.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Contact.aspx.designer.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Index.aspx.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Index.aspx.designer.cs">
+      <DependentUpon>Index.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MasterPage.Master.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\MasterPage.Master.designer.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\News.aspx.cs">
+      <DependentUpon>News.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\News.aspx.designer.cs">
+      <DependentUpon>News.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\NewsDetails.aspx.cs">
+      <DependentUpon>NewsDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\NewsDetails.aspx.designer.cs">
+      <DependentUpon>NewsDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ReferanceDetails.aspx.cs">
+      <DependentUpon>ReferanceDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\ReferanceDetails.aspx.designer.cs">
+      <DependentUpon>ReferanceDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Referances.aspx.cs">
+      <DependentUpon>Referances.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Referances.aspx.designer.cs">
+      <DependentUpon>Referances.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\ServiceDetails.aspx.cs">
+      <DependentUpon>ServiceDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\ServiceDetails.aspx.designer.cs">
+      <DependentUpon>ServiceDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Services.aspx.cs">
+      <DependentUpon>Services.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Services.aspx.designer.cs">
+      <DependentUpon>Services.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Solution.aspx.cs">
+      <DependentUpon>Solution.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Solution.aspx.designer.cs">
+      <DependentUpon>Solution.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\SolutionDetails.aspx.cs">
+      <DependentUpon>SolutionDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\SolutionDetails.aspx.designer.cs">
+      <DependentUpon>SolutionDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Assets\css\" />
+    <Folder Include="Assets\js\vendor\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AnalitikBilisimSite.BLL\AnalitikBilisimSite.BLL.csproj">
+      <Project>{feeae947-ac1d-4eb8-b59a-e5d635453e9e}</Project>
+      <Name>AnalitikBilisimSite.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AnalitikBilisimSite.Core\AnalitikBilisimSite.Core.csproj">
+      <Project>{33f4f153-3c13-4c7f-ade1-c8b49a50e50e}</Project>
+      <Name>AnalitikBilisimSite.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AnalitikBilisimSite.DAL\AnalitikBilisimSite.DAL.csproj">
+      <Project>{793d89ad-0c70-4687-a73c-1356821c53ce}</Project>
+      <Name>AnalitikBilisimSite.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AnalitikBilisimSite.Model\AnalitikBilisimSite.Model.csproj">
+      <Project>{d8508884-6370-4014-bd97-3acfdd05e4fa}</Project>
+      <Name>AnalitikBilisimSite.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AnalitikBilisimSite.Panel.UI\AnalitikBilisimSite.Panel.UI.csproj">
+      <Project>{73aa48be-e3c8-4edd-bede-b67f933b4a0d}</Project>
+      <Name>AnalitikBilisimSite.Panel.UI</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Localization.en-US.resx" />
+    <EmbeddedResource Include="Localization.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Localization.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>56452</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:56452/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Bu proje bu bilgisayarda olmayan NuGet paketlerine başvuru yapıyor. Bunları indirmek için NuGet Paket Geri Yükleme'yi kullanın. Daha fazla bilgi için, bkz. http://go.microsoft.com/fwlink/?LinkID=322105. Eksik dosya: {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.2.8.2\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.2.8.2\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.8\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

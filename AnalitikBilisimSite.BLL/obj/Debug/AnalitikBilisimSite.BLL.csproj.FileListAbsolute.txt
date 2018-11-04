@@ -1,0 +1,47 @@
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.BLL.dll
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.BLL.pdb
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.Core.dll
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.DAL.dll
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.Model.dll
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.Core.pdb
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.DAL.pdb
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.Model.pdb
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.BLL\obj\Debug\AnalitikBilisimSite.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.BLL\obj\Debug\AnalitikBilisimSite.BLL.dll
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.BLL\obj\Debug\AnalitikBilisimSite.BLL.pdb
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.BLL.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.BLL.pdb
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.Core.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.DAL.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.Model.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\EntityFramework.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.Core.pdb
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.Core.dll.config
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.DAL.pdb
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.DAL.dll.config
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.Model.pdb
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.Model.dll.config
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\EntityFramework.xml
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.BLL\obj\Debug\AnalitikBilisimSite.BLL.csprojResolveAssemblyReference.cache
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.BLL\obj\Debug\AnalitikBilisimSite.BLL.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.BLL\obj\Debug\AnalitikBilisimSite.BLL.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.BLL\obj\Debug\AnalitikBilisimSite.BLL.pdb
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.BLL.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.BLL.pdb
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.Core.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.DAL.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.Model.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\EntityFramework.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.Core.pdb
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.Core.dll.config
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.DAL.pdb
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.DAL.dll.config
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.Model.pdb
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\AnalitikBilisimSite.Model.dll.config
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.BLL\bin\Debug\EntityFramework.xml
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.BLL\obj\Debug\AnalitikBilisimSite.BLL.csprojResolveAssemblyReference.cache
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.BLL\obj\Debug\AnalitikBilisimSite.BLL.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.BLL\obj\Debug\AnalitikBilisimSite.BLL.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.BLL\obj\Debug\AnalitikBilisimSite.BLL.pdb

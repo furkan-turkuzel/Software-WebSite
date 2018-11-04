@@ -1,0 +1,218 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="AnalitikBilisimSite.UI.Pages.MasterPage" %>
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+
+    <meta charset="utf-8" />
+    <title>Analitik Bilişim</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <meta content="" name="keywords" />
+    <meta content="" name="description" />
+
+    <link href="img/titleIcon.ico" rel="icon" />
+    <link href="img/apple-touch-icon.png" rel="apple-touch-icon" />
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet" />
+
+    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="lib/animate/animate.min.css" rel="stylesheet" />
+    <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet" />
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet" />
+    <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet" />
+
+    <style type="text/css">
+        #liDropDown:hover{
+            background-color:#18d26e;
+        }
+    </style>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+        <header id="header" style="background-color: black">
+            <div class="container-fluid">
+
+                <div id="logo" class="pull-left">
+                    <a href="Index.aspx">
+                        <asp:Image ID="ImgLogo" runat="server" Width="140" Height="50" />
+                    </a>
+                </div>
+
+                <nav id="nav-menu-container">
+                    <ul class="nav-menu">
+                        <li class="<%=IndexMenu %>"><a href="Index.aspx">
+                            <asp:Label ID="lblAnasayfa" runat="server"></asp:Label>
+                        </a></li>
+
+                        <li class="<%=AboutMenu %>"><a href="About.aspx">
+                            <asp:Label ID="lblHakkimizda" runat="server"></asp:Label>
+                        </a></li>
+
+                        <li class="<%=ServicesMenu %>"><a href="Services.aspx">
+                            <asp:Label ID="lblHizmetlerimiz" runat="server"></asp:Label>
+                        </a></li>
+
+                        <li class="<%=SolutionMenu %> dropdown"><a href="Solution.aspx">
+                            <asp:Label ID="lblCozumlerimiz" runat="server"></asp:Label>
+                        </a>
+                            <ul class="dropdown-menu">
+                                <asp:ListView ID="MenuList" runat="server">
+                                    <ItemTemplate>
+                                        <li id="liDropDown">
+                                            <asp:Button ID="btnDropMenu" runat="server" Text='<%#Eval("CategoryName") %>' CommandArgument='<%#Eval("ID") %>' OnClick="btnDropMenu_Click" Style="border: none; background-color: transparent" />
+                                        </li>
+
+                                    </ItemTemplate>
+                                </asp:ListView>
+                            </ul>
+                        </li>
+
+                        <li class="<%=NewsMenu %>"><a href="News.aspx">
+                            <asp:Label ID="lblHaberler" runat="server"></asp:Label>
+                        </a></li>
+
+                        <li class="<%=ReferanceMenu %>"><a href="Referances.aspx">
+                            <asp:Label ID="lblReferanslar" runat="server"></asp:Label>
+                        </a></li>
+
+                        <li class="<%=ContactMenu %>"><a href="Contact.aspx">
+                            <asp:Label ID="lblIletişim" runat="server"></asp:Label>
+                        </a></li>
+                        <li></li>
+                        <li></li>
+                        <li>
+                            <asp:ImageButton ID="ImgTurkish" runat="server" OnClick="ImgTurkish_Click" Width="25" Height="25" />
+                            <asp:ImageButton ID="ImgEnglish" runat="server" OnClick="ImgEnglish_Click" Width="25" Height="25" />
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+
+        </header>
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+
+        <footer id="footer">
+            <div class="footer-top">
+                <div class="container">
+                    <div class="row">
+
+                        <div class="col-lg-3 col-md-6 footer-info">
+                            <h3>ANALİTİK BİLİŞİM</h3>
+                            <p>
+                                <asp:Label ID="lblFooterWriting" runat="server"></asp:Label>
+                            </p>
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 footer-links">
+                            <h4>ANALİTİK BİLİŞİM</h4>
+                            <ul>
+                                <li><i class="ion-ios-arrow-right"></i><a href="Index.aspx">
+                                    <asp:Label ID="lblFooterAnasayfa" runat="server"></asp:Label>
+                                </a></li>
+
+                                <li><i class="ion-ios-arrow-right"></i><a href="About.aspx">
+                                    <asp:Label ID="lblFooterHakkimizda" runat="server"></asp:Label>
+                                </a></li>
+
+                                <li><i class="ion-ios-arrow-right"></i><a href="Services.aspx">
+                                    <asp:Label ID="lblFooterHizmetlerimiz" runat="server"></asp:Label>
+                                </a></li>
+
+                                <li><i class="ion-ios-arrow-right"></i><a href="Solution.aspx">
+                                    <asp:Label ID="lblFooterCozumlerimiz" runat="server"></asp:Label>
+                                </a></li>
+
+                                <li><i class="ion-ios-arrow-right"></i><a href="News.aspx">
+                                    <asp:Label ID="lblFooterHaberler" runat="server"></asp:Label>
+                                </a></li>
+                            </ul>
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 footer-contact">
+                            <h4>
+                                <asp:Label ID="lblContactTitle" runat="server"></asp:Label>
+                            </h4>
+                            <p>
+                                <strong>
+                                    <asp:Label ID="lblAddress" runat="server"></asp:Label>
+                                    :</strong>
+                                <asp:Label ID="lblFooterAddress" runat="server"></asp:Label>
+                                <br />
+                                <strong>
+                                    <asp:Label ID="lblPhone" runat="server"></asp:Label>
+                                    :</strong>
+                                <asp:Label ID="lblFooterPhone" runat="server"></asp:Label>
+                                <br />
+                                <strong>
+                                    <asp:Label ID="lblMail" runat="server"></asp:Label>
+                                    :</strong>
+                                <asp:Label ID="lblFooterMail" runat="server"></asp:Label><br />
+                            </p>
+
+                            <div class="social-links">
+                                <a href="<%=Twitter %>" class="twitter"><i class="fa fa-twitter"></i></a>
+                                <a href="<%=Facebook %>" class="facebook"><i class="fa fa-facebook"></i></a>
+                                <a href="<%=Instagram %>" class="instagram"><i class="fa fa-instagram"></i></a>
+                                <a href="<%=Youtube %>" class="youtube"><i class="fa fa-youtube"></i></a>
+                                <a href="<%=Linkedin %>" class="linkedin"><i class="fa fa-linkedin"></i></a>
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-3 col-md-6 footer-newsletter">
+                            <h4>
+                                <asp:Label ID="lblFooterNewsTitle" runat="server"></asp:Label>
+                            </h4>
+                            <p>
+                                <marquee align="middle" scrollamount="1" height="150" width="100%" direction="up" scrolldelay="1">
+                                    <%=KayanHaber %>
+                                </marquee>
+                            </p>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="copyright">
+                    &copy; Copyright <strong>Analitik Bilişim</strong>. Tüm Hakları Saklıdır.
+                </div>
+                <div class="credits">
+                    Designed by <a href="#">Analitik Bilişim</a>
+                </div>
+            </div>
+        </footer>
+
+        <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+
+        <script src="lib/jquery/jquery.min.js"></script>
+        <script src="lib/jquery/jquery-migrate.min.js"></script>
+        <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+        <script src="lib/easing/easing.min.js"></script>
+        <script src="lib/superfish/hoverIntent.js"></script>
+        <script src="lib/superfish/superfish.min.js"></script>
+        <script src="lib/wow/wow.min.js"></script>
+        <script src="lib/waypoints/waypoints.min.js"></script>
+        <script src="lib/counterup/counterup.min.js"></script>
+        <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+        <script src="lib/isotope/isotope.pkgd.min.js"></script>
+        <script src="lib/lightbox/js/lightbox.min.js"></script>
+        <script src="lib/touchSwipe/jquery.touchSwipe.min.js"></script>
+        <script src="contactform/contactform.js"></script>
+
+        <script src="js/main.js"></script>
+
+    </form>
+</body>
+</html>

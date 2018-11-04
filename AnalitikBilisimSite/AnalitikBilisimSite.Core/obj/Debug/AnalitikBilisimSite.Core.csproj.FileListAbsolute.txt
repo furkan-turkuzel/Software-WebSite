@@ -1,0 +1,30 @@
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.Core\bin\Debug\AnalitikBilisimSite.Core.dll.config
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.Core\bin\Debug\AnalitikBilisimSite.Core.dll
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.Core\bin\Debug\AnalitikBilisimSite.Core.pdb
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.Core\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.Core\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.Core\obj\Debug\AnalitikBilisimSite.Core.dll
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.Core\obj\Debug\AnalitikBilisimSite.Core.pdb
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Core\bin\Debug\AnalitikBilisimSite.Core.dll.config
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Core\bin\Debug\AnalitikBilisimSite.Core.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Core\bin\Debug\AnalitikBilisimSite.Core.pdb
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Core\bin\Debug\EntityFramework.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Core\bin\Debug\EntityFramework.xml
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Core\obj\Debug\AnalitikBilisimSite.Core.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Core\obj\Debug\AnalitikBilisimSite.Core.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Core\obj\Debug\AnalitikBilisimSite.Core.pdb
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Core\bin\Debug\AnalitikBilisimSite.Core.dll.config
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Core\bin\Debug\AnalitikBilisimSite.Core.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Core\bin\Debug\AnalitikBilisimSite.Core.pdb
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Core\bin\Debug\EntityFramework.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Core\bin\Debug\EntityFramework.xml
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Core\obj\Debug\AnalitikBilisimSite.Core.csprojResolveAssemblyReference.cache
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Core\obj\Debug\AnalitikBilisimSite.Core.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Core\obj\Debug\AnalitikBilisimSite.Core.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Core\obj\Debug\AnalitikBilisimSite.Core.pdb

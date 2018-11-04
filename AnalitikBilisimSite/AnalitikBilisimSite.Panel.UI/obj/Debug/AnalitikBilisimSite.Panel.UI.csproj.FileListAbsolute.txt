@@ -1,0 +1,163 @@
+C:\Users\Administrator\Desktop\net\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\obj\Debug\AnalitikBilisimSite.Panel.UI.csprojResolveAssemblyReference.cache
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\ApplicationInsights.config
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.Panel.UI.dll.config
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.Panel.UI.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.Panel.UI.pdb
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\csc.exe
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\csc.exe.config
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\csc.rsp
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\csi.exe
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\csi.exe.config
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\csi.rsp
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.AppContext.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Console.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\vbc.exe
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\vbc.exe.config
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\vbc.rsp
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.BLL.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.Core.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.DAL.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.Model.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.AI.Web.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.BLL.pdb
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.Core.pdb
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.Core.dll.config
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.DAL.pdb
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.DAL.dll.config
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.Model.pdb
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.Model.dll.config
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.AI.Web.xml
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\obj\Debug\AnalitikBilisimSite.Panel.UI.csprojResolveAssemblyReference.cache
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\obj\Debug\AnalitikBilisimSite.Panel.UI.csproj.CoreCompileInputs.cache
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\obj\Debug\AnalitikBilisimSite.Panel.UI.dll
+C:\Users\furka\Desktop\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\obj\Debug\AnalitikBilisimSite.Panel.UI.pdb
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\ApplicationInsights.config
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.Panel.UI.dll.config
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.Panel.UI.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.Panel.UI.pdb
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\csc.exe
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\csc.exe.config
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\csc.rsp
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\csi.exe
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\csi.exe.config
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\csi.rsp
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.AppContext.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Console.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\vbc.exe
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\vbc.exe.config
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\vbc.rsp
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.BLL.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.Core.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.DAL.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.Model.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.AI.Web.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.BLL.pdb
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.Core.pdb
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.Core.dll.config
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.DAL.pdb
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.DAL.dll.config
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.Model.pdb
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\AnalitikBilisimSite.Model.dll.config
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.AI.Web.xml
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\obj\Debug\AnalitikBilisimSite.Panel.UI.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\obj\Debug\AnalitikBilisimSite.Panel.UI.dll
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\obj\Debug\AnalitikBilisimSite.Panel.UI.pdb
+C:\Users\furka\OneDrive\Belgeler\Visual Studio 2017\Project\AnalitikBilisimSite\AnalitikBilisimSite.Panel.UI\obj\Debug\AnalitikBilisimSite.Panel.UI.csprojResolveAssemblyReference.cache
